@@ -4,7 +4,7 @@ Hi 👋 My name is Santiago Martinez
 Software developer
 ------------------
 
-I am a developer with 5 years of experience in logistics and warehousing technology startups. My main focus is the javascript environment (React.js, Node.js, Vue.js), with a focus on code efficiency and scalability. I consider myself proactive, creative and passionate about technology. My goal is to continue growing in my career in companies looking to innovate and revolutionize their industry, such as medium-sized startups, startups in formation and industries such as Artificial Intelligence, SaaS and PropTech.
+I am a developer with 5 years of experience in technology startups. My main focus is the javascript environment (React.js, Node.js, Vue.js), with a focus on code efficiency and scalability. I consider myself proactive, creative and passionate about technology. My goal is to continue growing in my career in companies looking to innovate and revolutionize their industry, such as medium-sized startups, startups in formation and industries such as Artificial Intelligence, SaaS and PropTech.
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [martinezsantiago@gmail.com](mailto:martinezsantiago@gmail.com)
